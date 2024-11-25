@@ -4,7 +4,7 @@
   "description": "Memoreal Prototype",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node app.js"
   },
   "author": "David Boehm L. Pegarido",
   "license": "ISC",
