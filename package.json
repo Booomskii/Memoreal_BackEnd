@@ -1,0 +1,25 @@
+{
+  "name": "memoreal_prototype",
+  "version": "1.0.0",
+  "description": "Memoreal Prototype",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Boehm L. Pegarido",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "kotlin": "^1.9.25",
+    "mssql": "^11.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "os": "^0.1.2"
+  }
+}
